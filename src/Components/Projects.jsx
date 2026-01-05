@@ -15,8 +15,8 @@ const projects = [
     description:
       "A modern portfolio with smooth animations using Framer Motion and Tailwind CSS.",
     tech: ["React", "Framer Motion", "Tailwind"],
-    live: "#",
-    github: "#",
+    live: "https://portfolio-gray-kappa-mqe2n7u0ne.vercel.app/",
+    github: "https://github.com/Satyam-nalkar/Portfolio",
   },
   {
     title: "C++ Numerical Computing Library",
@@ -29,7 +29,7 @@ const projects = [
       "LU Decomposition",
       "Iterative Methods",
     ],
-    github: "#",
+    github: "https://github.com/Satyam-nalkar/Numerical_Computing/tree/main/Numerical_computing_1/Assignment",
   },
 ];
 
